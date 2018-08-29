@@ -1,8 +1,4 @@
 # Psychic Game
-<<<<<<< HEAD
-=======
-Homework #3 - Part 1
->>>>>>> 2fce90fada34cb1fd2af9ab4739a00e1d1229a2d
 
 ### About The Project
 
